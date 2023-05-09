@@ -33,8 +33,7 @@ At the end of each project, students will also do a gallery walk so that they ca
 
 ### Assessment
 
-The projects will be graded on a pre-determined rubric scale from 1-4 (Beginning, Developing, Accomplished, and Exemplary) for each category.
-while the gallery walk will be graded on participation.
+The projects will be graded on a pre-determined rubric scale from 1-4 (Beginning, Developing, Accomplished, and Exemplary) for each category, while the gallery walk will be graded on participation.
 
 ![Screen Shot 2023-05-08 at 5 49 51 PM](https://user-images.githubusercontent.com/112281905/236966710-12a5db53-a873-4160-8ffb-3577e5e6a1d5.png)
 

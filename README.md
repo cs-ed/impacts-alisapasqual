@@ -1,8 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/ZbDEPIzT)
 # Impacts on Society
 
-Describe your course including the name, description, and grade level. Broadly explain how this document details how you plan to incorporate issues of computing impacts on society in your course
-
 Course Name: Computer Science Essentials
 
 Description: Computer Science Essentials is an introductory course into computer science. This course introduces students to the basics of computer programming by using a block-based programming language (Scratch). As students progress through the course, they will transition to a text-based programming language that displays block and text programming side-by-side (Python). Both positive and harmful impacts of computer science on society will be discussed during this class with a reflection done at the end of each project.
@@ -42,4 +40,4 @@ while the gallery walk will be graded on participation.
 
 ### Outcomes
 
-Describe how your plan will facilitate diversity/equity/inclusion and help broadening participation in computing. Also describe how the course plan will help long-term goals in addressing computing impacts on society.
+This plan facilitates diversity by allowing students to see each others' work in a gallery walk. By having students comment on each others' work, it gives them time to also reflect on their own work and make improvements. This will help broaden the participation in computing as students are able to showcase their work and make improvements after seeing their classmates' responses. The course plan will help long-term goals in addressign computing impacts on society by revisiting the societal impacts at the end of each project. This repetition will instill in students the greater purpose of how computer science can positively or negatively impact our society.
